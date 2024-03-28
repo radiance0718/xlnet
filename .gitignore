@@ -1,0 +1,13 @@
+chinese_xlnet_base_L-12_H-768_A-12/spiece.model
+chinese_xlnet_base_L-12_H-768_A-12/xlnet_config.json
+chinese_xlnet_base_L-12_H-768_A-12/xlnet_model.ckpt.data-00000-of-00001
+chinese_xlnet_base_L-12_H-768_A-12/xlnet_model.ckpt.index
+chinese_xlnet_base_L-12_H-768_A-12/xlnet_model.ckpt.meta
+data/dev.tsv
+data/test.tsv
+data/train.tsv
+data/test.txt
+data/predict.txt
+data/train.txt
+model/embedding_trainable.h5
+model/model.h5
